@@ -1,0 +1,14 @@
+C:\Users\user1\OneDrive\Desktop\learnc#\bin\Debug\net10.0\learnc#.exe
+C:\Users\user1\OneDrive\Desktop\learnc#\bin\Debug\net10.0\learnc#.deps.json
+C:\Users\user1\OneDrive\Desktop\learnc#\bin\Debug\net10.0\learnc#.runtimeconfig.json
+C:\Users\user1\OneDrive\Desktop\learnc#\bin\Debug\net10.0\learnc#.dll
+C:\Users\user1\OneDrive\Desktop\learnc#\bin\Debug\net10.0\learnc#.pdb
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.AssemblyInfoInputs.cache
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.AssemblyInfo.cs
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.dll
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\refint\learnc#.dll
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.pdb
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.genruntimeconfig.cache
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\ref\learnc#.dll
