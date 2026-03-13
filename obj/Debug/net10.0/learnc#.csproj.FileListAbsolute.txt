@@ -12,3 +12,4 @@ C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\refint\learnc#.dll
 C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.pdb
 C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.genruntimeconfig.cache
 C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\ref\learnc#.dll
+C:\Users\user1\OneDrive\Desktop\learnc#\obj\Debug\net10.0\learnc#.sourcelink.json
